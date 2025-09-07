@@ -227,7 +227,7 @@ body.open-menu {
 
 .info__buttons-btn::after {
     content: '';
-    background-image: url(/images/Vector.svg);
+    background-image: url(../images/Vector.svg);
     background-repeat: no-repeat;
     position: absolute;
     top: 50%;
@@ -419,7 +419,7 @@ body.open-menu {
 }
 
 .item-acc__title::after {
-    background: url(/images/arr-bot.svg) no-repeat;
+    background: url(../images/arr-bot.svg) no-repeat;
     right: 13px;
     top: 6px;
     width: 32px;
@@ -441,21 +441,21 @@ body.open-menu {
 }
 
 .item-acc:nth-child(1) .item-acc__title::before {
-    background-image: url(/images/10.svg);
+    background-image: url(../images/10.svg);
 }
 
 .item-acc:nth-child(2) .item-acc__title::before {
-    background-image: url(/images/11.svg);
+    background-image: url(../images/11.svg);
 }
 
 .item-acc:nth-child(3) .item-acc__title::before {
-    background-image: url(/images/12.svg);
+    background-image: url(../images/12.svg);
 }
 
 .item-acc:nth-child(4) .item-acc__title::before {
     width: 50px;
     height: 50px;
-    background-image: url(/images/13.svg);
+    background-image: url(../images/13.svg);
 }
 
 .technolagy__questions-images img {
@@ -548,7 +548,7 @@ body.open-menu {
     content: '';
     width: 17px;
     height: 12px;
-    background: url(/images/Vector1.svg);
+    background: url(../images/Vector1.svg);
     position: absolute;
     top: 2px;
     left: 0;
@@ -734,7 +734,7 @@ body.open-menu {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(/images/vector111.svg) no-repeat;
+    background: url(../images/vector111.svg) no-repeat;
 }
 
 .start__price-free,
@@ -819,14 +819,13 @@ body.open-menu {
     outline: none;
     border-bottom: 1px solid #626A72;
     padding: 7px 35px 7px 0;
-    /* справа место под иконку */
     font-size: 14px;
 }
 
 .footer-newsletter button {
     position: absolute;
     right: 0;
-    background: url('/images/vector-left.svg') no-repeat center;
+    background: url('../images/vector-left.svg') no-repeat center;
     background-size: 16px;
     border: none;
     width: 24px;
@@ -852,14 +851,12 @@ body.open-menu {
 /* Общий фон модального окна */
 .modal {
     display: none;
-    /* скрыто по умолчанию */
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.7);
-    /* тёмный полупрозрачный фон */
     z-index: 1000;
     justify-content: center;
     align-items: center;
@@ -867,7 +864,6 @@ body.open-menu {
 
 /* Содержимое модального окна */
 .modal-content {
-    /* transform: translate(50%, 50%); */
     background-color: #fff;
     border-radius: 12px;
     padding: 20px 30px;
@@ -941,7 +937,7 @@ body.open-menu {
     margin-top: 15px;
 }
 
-/* ======= MEDIA QUERIES (все внизу) ======= */
+/* ======= MEDIA QUERIES ======= */
 
 @media (max-width: 1030px) {
     .posts__row {
@@ -1120,8 +1116,4 @@ body.open-menu {
     .whirl__title {
         grid-column: 1 / -1;
     }
-
-    /* .whirl__card:nth-child(2) {
-        grid-column: 1 / -1;
-    } */
 }
