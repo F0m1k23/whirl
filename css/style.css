@@ -419,7 +419,7 @@ body.open-menu {
 }
 
 .item-acc__title::after {
-    background: url(images/arr-bot.svg) no-repeat;
+    background: url('../images/arr-bot.svg') no-repeat;
     right: 13px;
     top: 6px;
     width: 32px;
@@ -441,21 +441,21 @@ body.open-menu {
 }
 
 .item-acc:nth-child(1) .item-acc__title::before {
-    background-image: url(images/10.svg);
+    background-image: url('../images/10.svg');
 }
 
 .item-acc:nth-child(2) .item-acc__title::before {
-    background-image: url(images/11.svg);
+    background-image: url('../images/11.svg');
 }
 
 .item-acc:nth-child(3) .item-acc__title::before {
-    background-image: url(images/12.svg);
+    background-image: url('../images/12.svg');
 }
 
 .item-acc:nth-child(4) .item-acc__title::before {
     width: 50px;
     height: 50px;
-    background-image: url(images/13.svg);
+    background-image: url('../images/13.svg');
 }
 
 .technolagy__questions-images img {
@@ -548,7 +548,7 @@ body.open-menu {
     content: '';
     width: 17px;
     height: 12px;
-    background: url('images/Vector1.svg');
+    background: url('../images/Vector1.svg');
     position: absolute;
     top: 2px;
     left: 0;
@@ -734,7 +734,7 @@ body.open-menu {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('images/vector111.svg') no-repeat;
+    background: url('../images/vector111.svg') no-repeat;
 }
 
 .start__price-free,
