@@ -39,7 +39,7 @@ function createPosts(post) {
   `
 }
 async function loadPosts() {
-	const res = await fetch('/js/items.json')
+	const res = await fetch('js/items.json')
 	const posts = await res.json()
 	const allPosts = document.querySelector('.posts__link')
 	const container = document.querySelector('.posts__row')
