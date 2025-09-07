@@ -1,0 +1,119 @@
+[
+	{
+		"id": 1,
+		"title": "Automating Daily Tasks from Your Phone",
+		"category": "Improvements",
+		"date": "2022-04-24",
+		"image": "/images/telefon.png",
+		"excerpt": "Dicta nihil ratione corrupti. Aut dolorem dolores omnis laboriosam ratione sequi. Provident ad sed velit. Est ea ab.",
+		"content": "Полный текст статьи об автоматизации повседневных задач с телефона. Здесь можно разместить развернутую информацию, примеры приложений и советы по использованию."
+	},
+	{
+		"id": 2,
+		"title": "Can You Automate Group Learning?",
+		"category": "Tips & Tricks",
+		"date": "2022-04-24",
+		"image": "/images/comuter.png",
+		"excerpt": "Dicta nihil ratione corrupti. Aut dolorem dolores omnis laboriosam ratione sequi. Provident ad sed velit. Est ea ab.",
+		"content": "Статья о том, как можно автоматизировать групповое обучение. Можно рассказать про онлайн-платформы, совместные доски, чат-боты и другие инструменты."
+	},
+	{
+		"id": 3,
+		"title": "Our $3,000,000 B Round Investors",
+		"category": "News",
+		"date": "2022-04-24",
+		"image": "/images/rank.png",
+		"excerpt": "Dicta nihil ratione corrupti. Aut dolorem dolores omnis laboriosam ratione sequi. Provident ad sed velit. Est ea ab.",
+		"content": "Новость о том, что компания привлекла 3 млн долларов на раунде инвестиций. Здесь можно расписать подробности, планы и комментарии руководства."
+	},
+	{
+		"id": 4,
+		"title": "Как использовать JSON в веб-разработке",
+		"category": "Programming",
+		"date": "2025-09-01",
+		"image": "https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg",
+		"excerpt": "Изучите основы работы с JSON форматом для обмена данными между клиентом и сервером.",
+		"content": "JSON (JavaScript Object Notation) является стандартным текстовым форматoм для представления структурированных данных на основе синтаксиса объекта JavaScript :cite[3]. Он широко используется для передачи данных в веб-приложениях."
+	},
+	{
+		"id": 5,
+		"title": "Лучшие фотостоки для блогеров в 2025",
+		"category": "Design",
+		"date": "2025-09-02",
+		"image": "https://images.pexels.com/photos/1591061/pexels-photo-1591061.jpeg",
+		"excerpt": "Обзор популярных фотостоков с бесплатными и платными изображениями для блога и соцсетей.",
+		"content": "Pixabay предлагает более 1 миллиона изображений и видео высокого качества, которые можно использовать бесплатно без указания авторства :cite[2]:cite[5]. Другие популярные варианты включают Rawpixel.com и Foodiesfeed.com."
+	},
+	{
+		"id": 6,
+		"title": "Нейросети для генерации контента в 2025",
+		"category": "AI",
+		"date": "2025-09-03",
+		"image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg",
+		"excerpt": "Как интегрировать инструменты искусственного интеллекта в процесс создания контента.",
+		"content": "Нейросети могут взять на себя рутину — сбор информации, первоначальную структуру, подбор синонимов, но финальное слово, эмоция, стиль — это ваше :cite[6]. Важно научиться правильно формулировать промты (запросы) к ИИ."
+	},
+	{
+		"id": 7,
+		"title": "Где брать легальные изображения для сайта",
+		"category": "Design",
+		"date": "2025-09-04",
+		"image": "https://images.pexels.com/photos/1029615/pexels-photo-1029615.jpeg",
+		"excerpt": "5 рабочих методов поиска изображений с соблюдением авторских прав.",
+		"content": "Любое изображение является объектом авторского права, поэтому перед использованием важно проверять лицензии :cite[10]. Creative Commons (СС) и Public Domain (PD) — основные типы лицензий для бесплатного использования."
+	},
+	{
+		"id": 8,
+		"title": "Парсинг JSON в Swift: быстрое создание моделей",
+		"category": "Programming",
+		"date": "2025-09-05",
+		"image": "https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg",
+		"excerpt": "Использование инструмента quicktype.io для автоматического создания моделей из JSON.",
+		"content": "Quicktype.io позволяет быстро генерировать модели для парсинга JSON, экономя время разработчика :cite[9]. Сервис автоматически создает все необходимые типы данных на основе предоставленного JSON."
+	},
+	{
+		"id": 9,
+		"title": "Как скопировать URL изображения в Google",
+		"category": "Tips & Tricks",
+		"date": "2025-09-06",
+		"image": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg",
+		"excerpt": "Простая инструкция по получению прямых ссылок на изображения из поиска Google.",
+		"content": "Чтобы скопировать URL изображения в Google, откройте images.google.com, введите запрос, выберите изображение и нажмите 'Ещё' → 'Отправить' → скопируйте URL :cite[8]. URL начинается с https://images.app.goo.gl/ или https://www.google.com/imgres?imgurl."
+	},
+	{
+		"id": 10,
+		"title": "Создание REST API с JSON форматом",
+		"category": "Programming",
+		"date": "2025-09-07",
+		"image": "https://images.pexels.com/photos/1261427/pexels-photo-1261427.jpeg",
+		"excerpt": "Почему JSON стал стандартом для REST API вместо XML.",
+		"content": "JSON легче читается человеком и меньше весит по сравнению с XML, что делает его предпочтительным форматом для REST API :cite[7]. В отличие от SOAP, который использует только XML, REST поддерживает оба формата, но разработчики чаще выбирают JSON."
+	},
+	{
+		"id": 11,
+		"title": "Бесплатные фоторедакторы для обработки изображений",
+		"category": "Design",
+		"date": "2025-09-08",
+		"image": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg",
+		"excerpt": "Обзор доступных инструментов для редактирования фото без навыков дизайнера.",
+		"content": "Такие редакторы, как Fotor, Canva и Pixlr, предлагают продвинутые инструменты для обработки фотографий даже в бесплатных версиях :cite[10]. Они позволяют кадрировать снимки, применять фильтры и добавлять текст."
+	},
+	{
+		"id": 12,
+		"title": "Как добавить эмоции в контент от нейросети",
+		"category": "AI",
+		"date": "2025-09-09",
+		"image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg",
+		"excerpt": "Почему машинный текст нужно редактировать и наполнять личным опытом.",
+		"content": "Никогда не публикуйте текст, сгенерированный ИИ, без тщательной проверки и редактирования :cite[6]. Добавьте свои мысли, примеры из жизни, шутки и интонацию, чтобы превратить бездушный машинный текст в живой."
+	},
+	{
+		"id": 13,
+		"title": "ImgBB: бесплатный хостинг изображений",
+		"category": "Tools",
+		"date": "2025-09-10",
+		"image": "https://images.pexels.com/photos/1591061/pexels-photo-1591061.jpeg",
+		"excerpt": "Загружайте и делитесь изображениями до 32 МБ без регистрации.",
+		"content": "ImgBB позволяет загружать изображения простым перетаскиванием и получать прямые ссылки, BB-коды и миниатюры :cite[4]. После загрузки вы можете редактировать изображение или изменить его размер."
+	}
+]
